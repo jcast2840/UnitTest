@@ -18,3 +18,14 @@
 \\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CopyComplete
 \\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
 \\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\NUnit3.TestAdapter.dll
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.engine.dll
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.engine.api.dll
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Cecil.dll
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Cecil.Pdb.dll
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Cecil.Mdb.dll
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Cecil.Rocks.dll
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\NUnit3.TestAdapter.pdb
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.engine.core.dll
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\UnitTestExamples\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
